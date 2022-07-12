@@ -1,0 +1,23 @@
+.navbar{
+    background-color: rgb(176, 170, 170);
+    color: #0c0c0c;
+    padding: 0.5%;
+
+}
+.opt{
+    font-weight: 700;
+    border: 1px solid rgb(98, 118, 183);
+    width: 100px;
+    margin: auto;
+    padding: 5px;
+    background-color: rgb(126, 133, 126);
+    border-radius: 50px;
+    
+}
+.opt:hover{
+    background-color: cadetblue;
+}
+
+.image{
+    width: 95%;
+}
