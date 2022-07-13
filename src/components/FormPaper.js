@@ -55,9 +55,7 @@ function FormPaper() {
             <button onClick={() => createAction(id)} className="button">Submit</button>
             <br></br>
             <button className='button' onClick={fetchData}>Click for random asteroids</button>
-            <div>
-                
-            </div>
+            
 
 
         </div>
